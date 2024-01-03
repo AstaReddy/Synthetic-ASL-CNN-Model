@@ -18,7 +18,3 @@ The dataset used comprises synthetic images representing the ASL alphabet. Each 
 Model Architecture
 
 The CNN model includes multiple convolutional layers, max pooling, and dense layers, along with dropout and batch normalization for regularization. The final layer uses a softmax activation function for multi-class classification of the 26 ASL alphabet signs.
-
-Results
-
-The model demonstrates excellent performance with a training accuracy of 99% and a test accuracy of 99%. These results indicate the model's robustness in accurately classifying the ASL signs, showcasing its effectiveness for ASL recognition tasks.
