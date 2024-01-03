@@ -1,7 +1,5 @@
-# Synthetic-ASL-CNN-Model
-A Convolutional Neural Network Model trained on Synthetic ASL Kaggle dataset.
+# ASL Recognition with CNN
 
-ASL Recognition with CNN
 Overview
 This project is dedicated to the development of a Convolutional Neural Network (CNN) using TensorFlow and Keras for the recognition of American Sign Language (ASL) gestures. The model is trained and evaluated on a synthetic ASL alphabet dataset, aiming to accurately classify ASL signs into their corresponding alphabets.
 
